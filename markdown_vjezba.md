@@ -23,7 +23,9 @@ int main() {
 - Kreirajte novu datoteku i kopirajte kod unutra
 - Prevedite
 - Pokrenite
+
 <br>
+
 ### TODO
 
 Todo lista za nadopunu programa:
@@ -33,4 +35,5 @@ Todo lista za nadopunu programa:
 - [ ] Ispisati sumu znamenki broja
 
 <br>
+
 [Povratak na vrh](#markdown-vjezba)
