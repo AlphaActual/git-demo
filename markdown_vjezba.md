@@ -31,4 +31,4 @@ Todo lista za nadopunu programa:
 [ ] Provjeriti je li broj troznamenkast
 [ ] Ispisati sumu znamenki broja
 
-[Povratak na vrh]()
+[Povratak na vrh](#)
