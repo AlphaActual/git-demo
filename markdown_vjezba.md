@@ -1,7 +1,7 @@
 # Markdown vježba
 
 Ovo je dokument :memo: koji reprezentira moj `c++` kod :smiley:
-## Program
+## *Program*
 
 ```cpp
 #include <iostream>
