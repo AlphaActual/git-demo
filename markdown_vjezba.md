@@ -23,8 +23,8 @@ int main() {
 - Kreirajte novu datoteku i kopirajte kod unutra
 - Prevedite
 - Pokrenite
+<br>
 ### TODO
-
 
 Todo lista za nadopunu programa:
 - [x] Ispisati poruku za unos broja
@@ -32,5 +32,5 @@ Todo lista za nadopunu programa:
 - [ ] Provjeriti je li broj troznamenkast
 - [ ] Ispisati sumu znamenki broja
 
-
+<br>
 [Povratak na vrh](#markdown-vjezba)
