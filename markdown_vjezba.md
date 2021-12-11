@@ -1,7 +1,7 @@
 # Markdown vježba
 
 Ovo je dokument :memo: koji reprezentira moj `c++` kod :smiley:
-# Program
+## Program
 
 ```cpp
 #include <iostream>
@@ -17,13 +17,13 @@ int main() {
     return 0;
 }
 ```
-# Pokretanje programa
+## Pokretanje programa
 
 - Preuzmite [DevCpp](https://sourceforge.net/projects/orwelldevcpp/)
 - Kreirajte novu datoteku i kopirajte kod unutra
 - Prevedite
 - Pokrenite
-# TODO
+## TODO
 
 Todo lista za nadopunu programa:
 - [x] Ispisati poruku za unos broja
